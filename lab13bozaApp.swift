@@ -11,7 +11,7 @@ import SwiftUI
 struct lab13bozaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainTabView()
         }
     }
 }
